@@ -27,14 +27,14 @@ Detection and tracking of objects by color with python and opencv
 
 ### Installation
 
-1. First, one should install the following libraries:
+First, one should install the following libraries:
 
 >* OpenCV version 2.4.10+
 * Python 2.7.9 (or any later Python 2.x)
 * Numpy 1.9.2+
 * Imutils 0.2.10+
 
-2. Now download and extract this repository with one of several options:
+Now download and extract this repository with one of several options:
 
 >* Clone the repository with $ git clone https://github.com/VAUTPL/Tracking_objects_3.git
 * Download the repository as a .zip or .tar.gz and then extract it.
