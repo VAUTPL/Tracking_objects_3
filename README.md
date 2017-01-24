@@ -2,7 +2,7 @@
 Detection and tracking of objects by color with python and opencv
 
 #UTPL 
-***
+
 ###Professor:
 
 >* Rodrigo Barba lrbarba@utpl.edu.ec
