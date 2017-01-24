@@ -16,7 +16,7 @@ Detection and tracking of objects by color with python and opencv
 
 * [Algoritmo de Seguimiento de Objetos](https://www.dropbox.com/s/oltc181a08kxi3o/revista-vision.pdf?dl=0)
 
-### Video Ilustrativo 
+### Illustrative Video 
 
 * [Tracking Object ](https://www.youtube.com/watch?v=ZYChdZf-zmU)
 
