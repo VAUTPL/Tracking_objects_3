@@ -10,7 +10,7 @@ Detection and tracking of objects by color with python and opencv
 ###Student: 
 
 * Ivo Astudillo iaastudillo@utpl.edu.ec
-* Luis Granda
+* Luis Granda lfgranda3@utpl.edu.ec
 
 ### Document 
 
